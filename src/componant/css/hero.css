@@ -1,0 +1,23 @@
+
+*
+{
+     ;
+}.second
+{
+    background-image: url(../../imagees/AdobeStock_60347910.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1
+{
+    transform: translate(-0px,-300px);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.h2{
+    transform: translate(650px,-750px);
+}
+.pera
+{
+    transform: translate(650px,-750px);
+}
