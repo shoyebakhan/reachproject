@@ -6,7 +6,7 @@ function Seclast()
 {
     return (
         <>
-        <section className="sec h-[70vh] w-[100%]  grid  grid-cols-4 ">
+        <section className="sec h-[70vh] w-[100%]  grid  grid-cols-4  ">
             <h1 className="text-4xl font-bold ml-[500px] h-[100px]
             w-[250px] translate-y-20">Featured on</h1>
 

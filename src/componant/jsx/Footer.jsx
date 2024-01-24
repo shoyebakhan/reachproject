@@ -7,7 +7,7 @@ function Footer()
     return(
 
         <>
-        <section className="h-[100vh] w-[100%] bg-blue-200 justify-center flex">
+        <section className="h-[100vh] w-[100%] justify-center flex">
 
             <div className=" dubu1 h-[100%] w-[40%] bg-black"> 
 
